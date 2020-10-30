@@ -22,9 +22,9 @@ public class SwaggerController {
 	
 	
 	@RequestMapping("/test")
-	public String sayHi() {
+	public String sayNamsakar() {
 		System.out.println("in controller");
-		return "In sayHi() ";
+		return "Namaskar ";
 	}
 	
 	@GetMapping(path = "/hello-world")
