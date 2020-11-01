@@ -1,0 +1,4 @@
+com\test\springboottest\SpringbootTestApplication.class
+com\test\swagertest\SwagerConfig.class
+com\test\springboottest\controlllers\SwaggerController.class
+com\test\springboottest\controlllers\TestController.class
