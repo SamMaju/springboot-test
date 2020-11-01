@@ -33,11 +33,7 @@ public class SwaggerController {
 		return "Namaskar ";
 	}
 	
-	@RequestMapping("/")
-	public String boloNamo() {
-		System.out.println("in controller");
-		return "Namaskar ";
-	}
+	
 	
 	@GetMapping(path = "/hello-world")
 	public String helloWorld() {
